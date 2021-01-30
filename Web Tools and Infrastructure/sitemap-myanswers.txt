@@ -1,0 +1,12 @@
+1) board.html
+2) disaster.html
+3) news/article.html
+4) ../images/logo.gif
+5) ../index.html
+6) ../../images/banner.gif
+7) ../index.html
+8) images/button.gif
+9) survey/senater.html
+10) ../news/survey/president.html
+11) news/survey/congress.html
+12) senate.html
